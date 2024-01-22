@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Poppins:wght@300&family=Rubik+Doodle+Shadow&display=swap');
+
+html,body{
+	
+	font-family: "poppins";
+	font-weight: bolder;
+}
+
+.nav-container{
+	
+	display: flex ;
+	justify-content: space-between;
+	margin:0 auto;
+	max-width: 1440px;
+	height: 72px;
+}
+
+img{
+	width: 76px;
+	height: 42.7px;
+	Top: 15px;
+	Left: 85px;
+	margin-top:15px;
+}
+.nav-url{
+
+	display:flex;
+	list-style: none;
+	flex-direction: row;
+	align-items:center;
+	gap: 24px;
+}
+.login{
+	
+	width: 75px;
+	height: 31px;
+	top: 21px;
+	left: 1286px;
+	padding: 6px, 16px, 6px, 16px;
+	gap: 10px;
+	color:white;
+	margin-top:15px;
+	font-family: "poppins";
+	font-style: 600;
+	font-size: 16px;
+	background-color: #D01C28;
+}
+.secondary-div{
+	display:flex;
+	flex-direction: row;
+	margin:0 auto;
+	width: 1125px ;
+	height: 613px ;
+}
+.p1{
+	width:595px;
+	height:306px;
+	font-weight:bolder;
+	font-size: 108px;
+	line-height:102px;
+}
+
+.p2{
+	width: 404px;
+	height: 91px;
+	font-weight:900;
+	  font-size: 16px;
+	  line-height:24px;
+	  margin-top: -46px;
+}
+
+.button-div{
+
+	display: flex;
+	flex-direction: row;
+ 	gap: 40px;	
+}
+
+.btn-1{
+	width: 150px ;
+	height: 41px ;
+	padding: 6px, 16px, 6px, 16px ;
+	gap: 10px ;
+	color: white ;
+	font-size: 18px;
+	font-family: "poppins";
+	font-weight: "900";
+	background-color: #D01C28;
+}
+
+.btn-2{
+	width: 141px;
+	height: 41px;
+	padding: 6px, 16px, 6px, 16px;
+	border: 1px;
+	gap: 10px;
+	font-size: 18px;
+	font-family: "poppins";
+	font-weight: "900";
+	background: white;
+	border: 1px solid #000000;
+}
+
+.logos{
+	display: flex;
+	gap:15px;
+	height:32px;
+	width: 32px;
+}
+
+.hero-img{
+	margin-top: 122px;
+	width: 750px;
+	height: 597.06px;
+}
