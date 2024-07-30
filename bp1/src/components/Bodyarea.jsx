@@ -1,7 +1,7 @@
 import React from "react";
-import amazon from "./src/assets/amazon.png";
-import flipkart from "./src/assets/flipkart.png";
-import heropage from "./src/assets/hero-image.png";
+import amazon from "../assets/amazon.png";
+import flipkart from "../assets/flipkart.png";
+import heropage from "../assets/hero-image.png";
 
 const Bodyarea = () => {
   return (

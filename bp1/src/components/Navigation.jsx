@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./src/assets/brand_logo.png";
+import logo from "../assets/brand_logo.png";
 
 const Navigation = () => {
   return (
