@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
-import Navigation from "./components/navigation";
-import Bodyarea from "./components/bodyarea";
+import Navigation from "./components/Navigation";
+import Bodyarea from "./components/Bodyarea";
 
 function App() {
   const [count, setCount] = useState(0);
